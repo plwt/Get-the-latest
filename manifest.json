@@ -1,0 +1,14 @@
+{
+    "name": "Get the latest",
+    "manifest_version": 2,
+    "version": "1.0",
+    "theme": {
+        "images": {
+            "theme_frame": "Get the latest desktop Seburo 25082019.png"
+        },
+        "colors": {
+            "frame": "rgba(229, 230, 232, 1)",
+            "tab_background_text": "rgba(0, 0, 0, 1)"
+        }
+    }
+}
